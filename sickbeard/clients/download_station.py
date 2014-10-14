@@ -1,8 +1,6 @@
 # Authors: 
 # Pedro Jose Pereira Vieito <pvieito@gmail.com> (Twitter: @pvieito)
 #
-# URL: https://github.com/mr-orange/Sick-Beard
-#
 # This file is part of Sick Beard.
 #
 # Sick Beard is free software: you can redistribute it and/or modify

@@ -2,8 +2,6 @@
 # Derek Battams <derek@battams.ca>
 # Pedro Jose Pereira Vieito (@pvieito) <pvieito@gmail.com>
 #
-# URL: https://github.com/mr-orange/Sick-Beard
-#
 # This file is part of Sick Beard.
 #
 # Sick Beard is free software: you can redistribute it and/or modify
